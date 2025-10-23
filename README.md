@@ -1,35 +1,42 @@
-# Geospatial Analysis Course 2025/2026
+# Geospatial Analysis - Master in Data Science University of Trento 2025/2026
 
-Code, datasets, and slides for the **Geospatial Analysis** course — University of Trento (2025)
+Code, datasets, notebooks, and slides for the **Geospatial Analysis** module  
+Master in Data Science — University of Trento (2025/2026)
 
 **Instructors:**  
-- [Maurizio Napolitano](https://github.com/napo) — Fondazione Bruno Kessler  
-- [Diego Giuliani](https://webapps.unitn.it/du/it/Persona/PER0020867/Didattica) — University of Trento  
+- [Maurizio Napolitano](https://github.com/napo) — Fondazione Bruno Kessler (FBK)  
+- [Diego Giuliani]([https://www.unitn.it](https://webapps.unitn.it/du/it/Persona/PER0020867/Didattica)) — University of Trento  
 
 ---
 
 ## Overview
 
-This repository contains all materials for the *Geospatial Analysis* course offered at the University of Trento in 2025/2026
+This repository hosts all materials for the *Geospatial Analysis* course within the Master in Data Science program at the University of Trento.
 
-The goal of the course is to introduce the main tools and methods for analyzing, managing, and visualizing spatial data using open-source technologies.  
-Students will learn how to combine Python, GIS data, and web-based visualization tools to explore geospatial phenomena.
+The course introduces fundamental tools and open-source technologies for managing, analyzing, and visualizing spatial data.  
+It combines theoretical concepts of spatial analysis with hands-on practice in Python.
 
----
-
-## 🗂️ Repository structure
-
-- **`notebooks/`** – Jupyter notebooks used in class and for assignments  
-- **`slides/`** – Lecture slides (PDF or HTML)  
-- **`data/`** – Datasets used for exercises (mostly open data and OSM extracts)  
-- **`code/`** – Supporting scripts and reusable functions  
-- **`examples/`** – Small projects and applied examples
+The laboratory aims to provide the necessary basis for learning how to manage, analyze and visualize geospatial data through open source tools (geospatial libraries for python, qgis, R …)
+At the end of the course, students will be able to:
+- understand the specificity of the geospatial data model
+- elaborate and integration of geospatial data (vector and raster)
+- spatial statistics analysis
+- create maps (also accessible via the web)
 
 ---
 
-## ⚙️ Setup
+## Repository structure
 
-To reproduce the environment, install the required Python libraries:
+- **`notebooks/`** – Jupyter notebooks for lectures and lab sessions  
+- **`slides/`** – Lecture slides in PDF or HTML  
+- **`data/`** – Open datasets used in exercises (mainly from OpenStreetMap and Copernicus)  
+- **`code/`** – Helper scripts and utility functions  
+- **`examples/`** – Complete applied examples and student projects  
 
-```bash
-pip install -r requirements.txt
+---
+
+## License
+- Code: MIT License
+- Educational materials and datasets: Creative Commons Attribution 4.0 (CC-BY-4.0)
+
+
