@@ -1,5 +1,5 @@
 sklearn-pandas==2.2.0
-seaborn==0.13.1
+seaborn>=0.13
 contextily==1.6.2
 mapclassify==2.9.0
 geopandas==1.1.1
