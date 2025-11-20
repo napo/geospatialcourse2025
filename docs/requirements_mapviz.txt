@@ -3,5 +3,5 @@ seaborn>=0.13
 contextily==1.6.2
 mapclassify==2.9.0
 geopandas==1.1.1
-folium==0.20.0+dfsg
+folium==0.20.0
 leafmap==0.48.5
