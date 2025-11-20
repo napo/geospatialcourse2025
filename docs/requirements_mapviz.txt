@@ -1,0 +1,8 @@
+sklearn-pandas==2.2.0
+seaborn==0.13.2
+types-seaborn==0.13.2
+contextily==1.6.2
+mapclassify==2.9.0
+geopandas==1.1.1
+folium==0.20.0+dfsg
+leafmap==0.48.5
